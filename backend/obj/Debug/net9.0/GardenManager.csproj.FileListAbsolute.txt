@@ -6,3 +6,12 @@ C:\Users\brama\Desktop\GardenManager\backend\obj\Debug\net9.0\GardenManager.Asse
 C:\Users\brama\Desktop\GardenManager\backend\obj\Debug\net9.0\GardenManager.csproj.CoreCompileInputs.cache
 C:\Users\brama\Desktop\GardenManager\backend\obj\Debug\net9.0\GardenManager.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\brama\Desktop\GardenManager\backend\obj\Debug\net9.0\GardenManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.csproj.AssemblyReference.cache
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.AssemblyInfoInputs.cache
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.AssemblyInfo.cs
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.csproj.CoreCompileInputs.cache
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brama\Desktop\Repositories\GardenManager\backend\obj\Debug\net9.0\GardenManager.sourcelink.json

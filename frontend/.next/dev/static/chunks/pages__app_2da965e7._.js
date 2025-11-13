@@ -8,7 +8,8 @@
   "static/chunks/node_modules_next_router_104fab1c.js",
   "static/chunks/node_modules_react-dom_4411d9bd._.js",
   "static/chunks/node_modules_f1be3ba2._.js",
-  "static/chunks/[root-of-the-server]__73ecdec8._.js"
+  "static/chunks/[root-of-the-server]__73ecdec8._.js",
+  "static/chunks/styles_globals_dc36e6c9.css"
 ],
     source: "entry"
 });

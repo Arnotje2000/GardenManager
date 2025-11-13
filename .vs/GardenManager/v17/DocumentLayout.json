@@ -1,14 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\brama\\Desktop\\GardenManager\\",
+  "WorkspaceRootPath": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A9C3DBB-9471-F9D0-D0B4-A8E0E666BC83}|backend\\GardenManager.csproj|c:\\users\\brama\\desktop\\gardenmanager\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9C3DBB-9471-F9D0-D0B4-A8E0E666BC83}|backend\\GardenManager.csproj|solutionrelative:backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2E6CF0B-C818-4923-B12A-94A1C9C10DFA}|backend\\GardenManager.Data\\GardenManager.Data.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.data\\seeds\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E6CF0B-C818-4923-B12A-94A1C9C10DFA}|backend\\GardenManager.Data\\GardenManager.Data.csproj|solutionrelative:backend\\gardenmanager.data\\seeds\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9C3DBB-9471-F9D0-D0B4-A8E0E666BC83}|backend\\GardenManager.csproj|c:\\users\\brama\\desktop\\gardenmanager\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9C3DBB-9471-F9D0-D0B4-A8E0E666BC83}|backend\\GardenManager.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.services\\gardens\\gardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|solutionrelative:backend\\gardenmanager.services\\gardens\\gardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.services\\gardens\\igardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|solutionrelative:backend\\gardenmanager.services\\gardens\\igardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\controllers\\gardenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\controllers\\gardenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.services\\sensors\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|solutionrelative:backend\\gardenmanager.services\\sensors\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.services\\sensors\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|solutionrelative:backend\\gardenmanager.services\\sensors\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|solutionrelative:backend\\gardenmanager.services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E23B4F8E-F97F-4169-A907-032841D1BEFD}|backend\\GardenManager.API\\GardenManager.API.csproj|solutionrelative:backend\\gardenmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|c:\\users\\brama\\desktop\\repositories\\gardenmanager\\backend\\gardenmanager.services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A672F1-C7F2-4A42-AB8A-1D061E66B557}|backend\\GardenManager.Services\\GardenManager.Services.csproj|solutionrelative:backend\\gardenmanager.services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,34 +77,216 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\GardenManager\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "backend\\Program.cs",
-              "ToolTip": "C:\\Users\\brama\\Desktop\\GardenManager\\backend\\Program.cs",
-              "RelativeToolTip": "backend\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:29:00.519Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\GardenManager\\backend\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "backend\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\brama\\Desktop\\GardenManager\\backend\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "backend\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Data\\Seeds\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.Data\\Seeds\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Data\\Seeds\\DataSeeder.cs",
+              "RelativeToolTip": "backend\\GardenManager.Data\\Seeds\\DataSeeder.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAwwCoBAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:51:19.134Z",
+              "WhenOpened": "2025-11-13T15:58:30.271Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:44:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:44:01.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlantsController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\PlantsController.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Controllers\\PlantsController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\PlantsController.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Controllers\\PlantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:19:34.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GardensController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\GardensController.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Controllers\\GardensController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\GardensController.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Controllers\\GardensController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:53:33.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:49:47.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGardenService.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Gardens\\IGardenService.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.Services\\Gardens\\IGardenService.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Gardens\\IGardenService.cs",
+              "RelativeToolTip": "backend\\GardenManager.Services\\Gardens\\IGardenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:51:20.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GardenService.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Gardens\\GardenService.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.Services\\Gardens\\GardenService.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Gardens\\GardenService.cs",
+              "RelativeToolTip": "backend\\GardenManager.Services\\Gardens\\GardenService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:51:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.Services\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "backend\\GardenManager.Services\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:07:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:19:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISensorService.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Sensors\\ISensorService.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.Services\\Sensors\\ISensorService.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Sensors\\ISensorService.cs",
+              "RelativeToolTip": "backend\\GardenManager.Services\\Sensors\\ISensorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:52:52.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SensorService.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Sensors\\SensorService.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.Services\\Sensors\\SensorService.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Sensors\\SensorService.cs",
+              "RelativeToolTip": "backend\\GardenManager.Services\\Sensors\\SensorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:55:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Program.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:05:09.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SensorsController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\SensorsController.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Controllers\\SensorsController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Controllers\\SensorsController.cs",
+              "RelativeToolTip": "backend\\GardenManager.API\\Controllers\\SensorsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwHwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:59:36.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\GardenManager.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\GardenManager.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T15:17:18.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "backend\\GardenManager.Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\Repositories\\GardenManager\\backend\\GardenManager.Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "backend\\GardenManager.Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:07:48.686Z",
+              "EditorCaption": ""
             }
           ]
         }
